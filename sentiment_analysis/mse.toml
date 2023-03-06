@@ -1,6 +1,6 @@
 name = "sentiment_analysis"
 project = "default"
-resource = "free"
+hardware = "512m-eu-001"
 
 [code]
 location = "mse_src"
