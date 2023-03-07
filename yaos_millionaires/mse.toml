@@ -1,6 +1,6 @@
 name="yaos_millionaires"
 project="default"
-resource="free"
+hardware="512m-eu-001"
 
 [code]
 location="./mse_src"
